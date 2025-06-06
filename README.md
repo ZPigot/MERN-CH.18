@@ -32,7 +32,7 @@ This app delivers a seamless experience for both guest users and authenticated u
   
 ## Installation 
 1. Clone the repository
-   git clone https://github.com/your-username/book-search-engine.git
+   git clone https://github.com/your-ZPIGOT/book-search-engine.git
 cd book-search-engine
 
 2.npm install
